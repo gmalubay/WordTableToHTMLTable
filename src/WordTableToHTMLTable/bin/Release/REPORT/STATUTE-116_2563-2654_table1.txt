@@ -1,0 +1,246 @@
+<page xmlns="http://schemas.gpo.gov/xml/uslm">116 STAT. 2564</page>
+<table xmlns="http://www.w3.org/1999/xhtml" width="100%" style="border-collapse:collapse">
+<caption>
+<p xmlns="http://schemas.gpo.gov/xml/uslm" role="title" class="centered">COMMISSIONED OFFICERS <ref xmlns="http://schemas.gpo.gov/xml/uslm" class="footnoteRef" idref="fntable1"><sup>1</sup></ref>&#x2014;Continued</p>
+<p xmlns="http://schemas.gpo.gov/xml/uslm" role="subtitle" class="centered">Years of service computed under section 205 of title 37, United States Code</p>
+</caption>
+ <thead>
+<tr class="header">
+<th style="text-align:center; vertical-align:bottom; border-right:1px solid black; border-top:1px solid black; border-bottom:1px solid black">Pay   Grade</th>
+<th style="text-align:center; vertical-align:bottom; border-right:1px solid black; border-top:1px solid black; border-bottom:1px solid black">2 or   less</th>
+<th style="text-align:center; vertical-align:bottom; border-right:1px solid black; border-top:1px solid black; border-bottom:1px solid black">Over 2</th>
+<th style="text-align:center; vertical-align:bottom; border-right:1px solid black; border-top:1px solid black; border-bottom:1px solid black">Over 3</th>
+<th style="text-align:center; vertical-align:bottom; border-right:1px solid black; border-top:1px solid black; border-bottom:1px solid black">Over 4</th>
+<th style="text-align:center; vertical-align:bottom; border-right:1px solid black; border-top:1px solid black; border-bottom:1px solid black">Over 6</th>
+</tr>
+</thead>
+<tbody>
+ <tr>
+  <td style="text-align:left; vertical-align:bottom" leaders="yes">O-5</td>
+  <td style="text-align:right; vertical-align:bottom; border-left:1px solid black; border-right:1px solid black; border-bottom:1px solid black">$3,837.60</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$4,323.00</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$4,622.40</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$4,678.50</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$4,864.80</td>
+ </tr>
+ <tr>
+  <td style="text-align:left; vertical-align:bottom" leaders="yes">O-4</td>
+  <td style="text-align:right; vertical-align:bottom; border-left:1px solid black; border-right:1px solid black; border-bottom:1px solid black">$3,311.10</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$3,832.80</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$4,088.70</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$4,145.70</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$4,383.00</td>
+ </tr>
+ <tr>
+  <td style="text-align:left; vertical-align:bottom">O-3<ref xmlns="http://schemas.gpo.gov/xml/uslm" class="footnoteRef" idref="fntable3"><sup>3</sup></ref></td>
+  <td style="text-align:right; vertical-align:bottom; border-left:1px solid black; border-right:1px solid black; border-bottom:1px solid black">$2,911.20</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$3,300.30</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$3,562.20</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$3,883.50</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$4,069.50</td>
+ </tr>
+ <tr>
+  <td style="text-align:left; vertical-align:bottom">O-2<ref xmlns="http://schemas.gpo.gov/xml/uslm" class="footnoteRef" idref="fntable3"><sup>3</sup></ref></td>
+  <td style="text-align:right; vertical-align:bottom; border-left:1px solid black; border-right:1px solid black; border-bottom:1px solid black">$2,515.20</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$2,864.70</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$3,299.40</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$3,410.70</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$3,481.20</td>
+ </tr>
+ <tr>
+  <td style="text-align:left; vertical-align:bottom">O-1<ref xmlns="http://schemas.gpo.gov/xml/uslm" class="footnoteRef" idref="fntable3"><sup>3</sup></ref></td>
+  <td style="text-align:right; vertical-align:bottom; border-left:1px solid black; border-right:1px solid black; border-bottom:1px solid black">$2,183.70</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$2,272.50</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$2,746.80</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$2,746.80</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$2,746.80</td>
+ </tr>
+ <tr>
+  <td style="text-align:left; vertical-align:bottom"></td>
+  <td style="text-align:center; vertical-align:bottom; border-left:1px solid black; border-right:1px solid black; border-bottom:1px solid black">Over 8</td>
+  <td style="text-align:center; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">Over 10</td>
+  <td style="text-align:center; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">Over 12</td>
+  <td style="text-align:center; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">Over 14</td>
+  <td style="text-align:center; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">Over 16</td>
+ </tr>
+ <tr>
+  <td style="text-align:left; vertical-align:bottom">O-102</td>
+  <td style="text-align:right; vertical-align:bottom; border-left:1px solid black; border-right:1px solid black; border-bottom:1px solid black">$0.00</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$0.00</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$0.00</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$0.00</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$0.00</td>
+ </tr>
+ <tr>
+  <td style="text-align:left; vertical-align:bottom" leaders="yes">O-9</td>
+  <td style="text-align:right; vertical-align:bottom; border-left:1px solid black; border-right:1px solid black; border-bottom:1px solid black">$0.00</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$0.00</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$0.00</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$0.00</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$0.00</td>
+ </tr>
+ <tr>
+  <td style="text-align:left; vertical-align:bottom" leaders="yes">O-8</td>
+  <td style="text-align:right; vertical-align:bottom; border-left:1px solid black; border-right:1px solid black; border-bottom:1px solid black">$8,468.70</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$8,547.30</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$8,868.90</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$8,961.30</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$9,238.20</td>
+ </tr>
+ <tr>
+  <td style="text-align:left; vertical-align:bottom" leaders="yes">O-7</td>
+  <td style="text-align:right; vertical-align:bottom; border-left:1px solid black; border-right:1px solid black; border-bottom:1px solid black">$7,120.80</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$7,340.40</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$7,559.40</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$7,779.00</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$8,468.70</td>
+ </tr>
+ <tr>
+  <td style="text-align:left; vertical-align:bottom" leaders="yes">O-6</td>
+  <td style="text-align:right; vertical-align:bottom; border-left:1px solid black; border-right:1px solid black; border-bottom:1px solid black">$5,641.20</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$5,672.10</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$5,672.10</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$5,994.60</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$6,564.30</td>
+ </tr>
+ <tr>
+  <td style="text-align:left; vertical-align:bottom" leaders="yes">O-5</td>
+  <td style="text-align:right; vertical-align:bottom; border-left:1px solid black; border-right:1px solid black; border-bottom:1px solid black">$4,977.00</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$5,222.70</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$5,403.00</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$5,635.50</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$5,991.90</td>
+ </tr>
+ <tr>
+  <td style="text-align:left; vertical-align:bottom" leaders="yes">O-4</td>
+  <td style="text-align:right; vertical-align:bottom; border-left:1px solid black; border-right:1px solid black; border-bottom:1px solid black">$4,637.70</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$4,954.50</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$5,201.40</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$5,372.70</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$5,471.10</td>
+ </tr>
+ <tr>
+  <td style="text-align:left; vertical-align:bottom">O-3<ref xmlns="http://schemas.gpo.gov/xml/uslm" class="footnoteRef" idref="fntable3"><sup>3</sup></ref></td>
+  <td style="text-align:right; vertical-align:bottom; border-left:1px solid black; border-right:1px solid black; border-bottom:1px solid black">$4,273.50</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$4,405.80</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$4,623.30</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$4,736.10</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$4,736.10</td>
+ </tr>
+ <tr>
+  <td style="text-align:left; vertical-align:bottom">O-2<ref xmlns="http://schemas.gpo.gov/xml/uslm" class="footnoteRef" idref="fntable3"><sup>3</sup></ref></td>
+  <td style="text-align:right; vertical-align:bottom; border-left:1px solid black; border-right:1px solid black; border-bottom:1px solid black">$3,481.20</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$3,481.20</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$3,481.20</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$3,481.20</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$3,481.20</td>
+ </tr>
+ <tr>
+  <td style="text-align:left; vertical-align:bottom">O-1<ref xmlns="http://schemas.gpo.gov/xml/uslm" class="footnoteRef" idref="fntable3"><sup>3</sup></ref></td>
+  <td style="text-align:right; vertical-align:bottom; border-left:1px solid black; border-right:1px solid black; border-bottom:1px solid black">$2,746.80</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$2,746.80</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$2,746.80</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$2,746.80</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$2,746.80</td>
+ </tr>
+ <tr>
+  <td style="text-align:left; vertical-align:bottom"></td>
+  <td style="text-align:center; vertical-align:bottom; border-left:1px solid black; border-right:1px solid black; border-bottom:1px solid black">Over 18</td>
+  <td style="text-align:center; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">Over 20</td>
+  <td style="text-align:center; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">Over 22</td>
+  <td style="text-align:center; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">Over 24</td>
+  <td style="text-align:center; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">Over 26</td>
+ </tr>
+ <tr>
+  <td style="text-align:left; vertical-align:bottom">O-10<ref xmlns="http://schemas.gpo.gov/xml/uslm" class="footnoteRef" idref="fntable2"><sup>2</sup></ref></td>
+  <td style="text-align:right; vertical-align:bottom; border-left:1px solid black; border-right:1px solid black; border-bottom:1px solid black">$0.00</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$12,077.70</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$12,137.10</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$12,389.40</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$12,829.20</td>
+ </tr>
+ <tr>
+  <td style="text-align:left; vertical-align:bottom" leaders="yes">O-9</td>
+  <td style="text-align:right; vertical-align:bottom; border-left:1px solid black; border-right:1px solid black; border-bottom:1px solid black">$0.00</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$10,563.60</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$10,715.70</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$10,935.60</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$11,319.60</td>
+ </tr>
+ <tr>
+  <td style="text-align:left; vertical-align:bottom" leaders="yes">O-8</td>
+  <td style="text-align:right; vertical-align:bottom; border-left:1px solid black; border-right:1px solid black; border-bottom:1px solid black">$9,639.00</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$10,008.90</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$10,255.80</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$10,255.80</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$10,255.80</td>
+ </tr>
+ <tr>
+  <td style="text-align:left; vertical-align:bottom" leaders="yes">O-7</td>
+  <td style="text-align:right; vertical-align:bottom; border-left:1px solid black; border-right:1px solid black; border-bottom:1px solid black">$9,051.30</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$9,051.30</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$9,051.30</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$9,051.30</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$9,096.90</td>
+ </tr>
+ <tr>
+  <td style="text-align:left; vertical-align:bottom" leaders="yes">O-6</td>
+  <td style="text-align:right; vertical-align:bottom; border-left:1px solid black; border-right:1px solid black; border-bottom:1px solid black">$6,898.80</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$7,233.30</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$7,423.50</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$7,616.10</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$7,989.90</td>
+ </tr>
+ <tr>
+  <td style="text-align:left; vertical-align:bottom" leaders="yes">O-5</td>
+  <td style="text-align:right; vertical-align:bottom; border-left:1px solid black; border-right:1px solid black; border-bottom:1px solid black">$6,161.70</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$6,329.10</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$6,519.60</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$6,519.60</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$6,519.60</td>
+ </tr>
+ <tr>
+  <td style="text-align:left; vertical-align:bottom" leaders="yes">O-4</td>
+  <td style="text-align:right; vertical-align:bottom; border-left:1px solid black; border-right:1px solid black; border-bottom:1px solid black">$5,528.40</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$5,528.40</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$5,528.40</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$5,528.40</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$5,528.40</td>
+ </tr>
+ <tr>
+  <td style="text-align:left; vertical-align:bottom">O-3<ref xmlns="http://schemas.gpo.gov/xml/uslm" class="footnoteRef" idref="fntable3"><sup>3</sup></ref></td>
+  <td style="text-align:right; vertical-align:bottom; border-left:1px solid black; border-right:1px solid black; border-bottom:1px solid black">$4,736.10</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$4,736.10</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$4,736.10</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$4,736.10</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$4,736.10</td>
+ </tr>
+ <tr>
+  <td style="text-align:left; vertical-align:bottom">O-2<ref xmlns="http://schemas.gpo.gov/xml/uslm" class="footnoteRef" idref="fntable3"><sup>3</sup></ref></td>
+  <td style="text-align:right; vertical-align:bottom; border-left:1px solid black; border-right:1px solid black; border-bottom:1px solid black">$3,481.20</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$3,481.20</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$3,481.20</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$3,481.20</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$3,481.20</td>
+ </tr>
+ <tr>
+  <td style="text-align:left; vertical-align:bottom; border-bottom:1px solid black">O-1<ref xmlns="http://schemas.gpo.gov/xml/uslm" class="footnoteRef" idref="fntable3"><sup>3</sup></ref></td>
+  <td style="text-align:right; vertical-align:bottom; border-left:1px solid black; border-right:1px solid black; border-bottom:1px solid black">$2,746.80</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$2,746.80</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$2,746.80</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$2,746.80</td>
+  <td style="text-align:right; vertical-align:bottom; border-right:1px solid black; border-bottom:1px solid black">$2,746.80</td>
+ </tr>
+</tbody>
+<tfoot>
+<tr>
+<td colspan="6" style="text-align:justify; text-indent:1em; font-size:6pt"><footnote xmlns="http://schemas.gpo.gov/xml/uslm" id="fntable1"><sup>1</sup> Notwithstanding the basic pay rates specified in this table, the actual rate of basic pay for commissioned officers in pay grades 0-7 through O-10 may not exceed the rate of pay for level III of the Executive Schedule and the actual rate of basic pay for all other officers may not exceed the rate of pay for level V of the Executive Schedule.</footnote></td>
+</tr>
+<tr>
+<td colspan="6" style="text-align:justify; text-indent:1em; font-size:6pt"><footnote xmlns="http://schemas.gpo.gov/xml/uslm" id="fntable2"><sup>2</sup> Subject to the preceding footnote, the rate of basic pay for an officer in this grade while serving as Chairman or Vice Chairman of the Joint Chiefs of Staff, Chief of Staff of the Army, Chief of Naval Operations, Chief of Staff of the Air Force, Commandant of the Marine Corps, or Commandant of the Coast Guard is $14,155.50, regardless of cumulative years of service computed under section 205 of title 37, United States Code.</footnote></td>
+</tr>
+<tr>
+<td colspan="6" style="text-align:justify; text-indent:1em; font-size:6pt"><footnote xmlns="http://schemas.gpo.gov/xml/uslm" id="fntable3"><sup>3</sup> This table does not apply to commissioned officers in pay grade O-1, O-2, or O-3 who have been credited with over 4 years of active duty service as an enlisted member or warrant officer.</footnote></td>
+</tr>
+</tfoot>
+</table>

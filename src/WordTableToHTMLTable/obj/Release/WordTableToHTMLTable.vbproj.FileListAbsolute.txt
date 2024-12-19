@@ -1,0 +1,9 @@
+C:\Users\Glaiza\zzzWork\WordTableToHTMLTable\WordTableToHTMLTable\bin\Release\WordTableToHTMLTable.exe.config
+C:\Users\Glaiza\zzzWork\WordTableToHTMLTable\WordTableToHTMLTable\bin\Release\WordTableToHTMLTable.exe
+C:\Users\Glaiza\zzzWork\WordTableToHTMLTable\WordTableToHTMLTable\bin\Release\WordTableToHTMLTable.pdb
+C:\Users\Glaiza\zzzWork\WordTableToHTMLTable\WordTableToHTMLTable\obj\Release\WordTableToHTMLTable.vbproj.ResolveComReference.cache
+C:\Users\Glaiza\zzzWork\WordTableToHTMLTable\WordTableToHTMLTable\obj\Release\WordTableToHTMLTable.Resources.resources
+C:\Users\Glaiza\zzzWork\WordTableToHTMLTable\WordTableToHTMLTable\obj\Release\WordTableToHTMLTable.vbproj.GenerateResource.cache
+C:\Users\Glaiza\zzzWork\WordTableToHTMLTable\WordTableToHTMLTable\obj\Release\WordTableToHTMLTable.vbproj.CoreCompileInputs.cache
+C:\Users\Glaiza\zzzWork\WordTableToHTMLTable\WordTableToHTMLTable\obj\Release\WordTableToHTMLTable.exe
+C:\Users\Glaiza\zzzWork\WordTableToHTMLTable\WordTableToHTMLTable\obj\Release\WordTableToHTMLTable.pdb
